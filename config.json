@@ -1,0 +1,12 @@
+{
+    "apps": [
+        {
+            "id": "1538761576",
+            "bundle": "com.2stable.2fa",
+            "scheme": "toostable1",
+            "icon": "https://2stable.com/assets/img/auth-Icon-512.png",
+            "title": "Authenticator App",
+            "subtitle": "2FA Authentication MFA & OTP"
+        }
+    ]
+  }
