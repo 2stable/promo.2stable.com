@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1538761576",
+        "bundle": "com.2stable.2fa",
+        "scheme": "toostable1",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/15/d3/6615d3c7-7bb1-8199-50b8-dc86fc3fcfeb/AppIcon-0-0-1x_U007ewatch-0-1-P3-85-220.png/512x512bb.png",
+        "title": "Authenticator App",
+        "subtitle": "2FA Authentication MFA & OTP"
+    },
+    {
+        "id": "1627460689",
+        "bundle": "com.2stable.passwords",
+        "scheme": "toostable2",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/9f/32/ba9f32d4-93fd-84c1-6508-6362cae6c5c6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.png",
+        "title": "Password Manager by 2Stable",
+        "subtitle": "Passwords App"
+    },
+    {
+        "id": "1659205365",
+        "bundle": "com.2stable.passkeys",
+        "scheme": "toostable3",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b6/7a/df/b67adf3a-6263-6ca0-13cd-954458161c99/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/512x512bb.png",
+        "title": "Passkeys App",
+        "subtitle": "Secure Passwordless Login"
+    },
+    {
+        "id": "1672745422",
+        "bundle": "com.2stable.generator",
+        "scheme": "toostable4",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e9/3e/6de93e34-e038-1dc3-a6aa-8d42c43a717b/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.png",
+        "title": "Password Generator",
+        "subtitle": "2Stable"
+    }
+]
