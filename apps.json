@@ -1,4 +1,10 @@
 {
+    "header": {
+        "brandLight": "https://promo.2stable.com/assets/2Stable-Logo-Light.png",
+        "brandDark": "https://promo.2stable.com/assets/2Stable-Logo-Dark.png",
+        "brandSuffix": "Apps",
+        "message": "Power up your online security and stay fully protected."
+    },
     "trusted": {
         "title": "10M+",
         "message": "Trusted, loved, and used by over 10 million users worldwide."
