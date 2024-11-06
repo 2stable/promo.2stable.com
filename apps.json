@@ -1,8 +1,10 @@
 {
     "header": {
-        "brandLight": "https://promo.2stable.com/assets/2Stable-Logo-Light.png",
-        "brandDark": "https://promo.2stable.com/assets/2Stable-Logo-Dark.png",
-        "brandSuffix": "Apps",
+        "brand": {
+            "light": "https://promo.2stable.com/assets/2Stable-Logo-Light.png",
+            "dark": "https://promo.2stable.com/assets/2Stable-Logo-Dark.png",
+            "suffix": "Apps"
+        },
         "message": "Power up your online security and stay fully protected."
     },
     "trusted": {
